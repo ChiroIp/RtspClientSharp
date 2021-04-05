@@ -3,7 +3,7 @@
 [![NuGet version (RtspClientSharp)](https://img.shields.io/nuget/v/RtspClientSharp.svg?style=flat-square)](https://www.nuget.org/packages/RtspClientSharp/)
 [![Build Status](https://travis-ci.org/BogdanovKirill/RtspClientSharp.svg?branch=master)](https://travis-ci.org/BogdanovKirill/RtspClientSharp.svg?branch=master)
 
-This repo contains C# RTSP client implementation (called "RtspClientSharp") for .NET Standard 2.0
+This repo contains C# RTSP client implementation (called "RtspClientSharp") for .NET Standard 2.0 (UWP)
 ## Features
 - Supported transport protocols: TCP/HTTP/UDP
 - Supported media codecs: H.264/MJPEG/AAC/G711A/G711U/PCM/G726
